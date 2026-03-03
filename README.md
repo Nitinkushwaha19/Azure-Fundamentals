@@ -2,7 +2,7 @@
 
 ## 📂 Contents
 
-## Cloud Computing (`01.cloud_computing.md`)
+### 01. Cloud Computing (`01.cloud_computing.md`)
 
 [1. Cloud Computing Overview](01.cloud_computing.md#cloud-computing-overview)
 
@@ -29,37 +29,37 @@
 
 ---
 
-## Microsoft Azure (`01.Azure.md`)
+### 02. Microsoft Azure (`02.Azure.md`)
 
-[1. Microsoft Azure Overview](01.Azure.md#microsoft-azure)
+[1. Microsoft Azure Overview](02.Azure.md#microsoft-azure)
 
-[2. Microsoft Azure Services](01.Azure.md#microsoft-azure-services)
-  - [Compute](01.Azure.md#1-compute)
-  - [Storage](01.Azure.md#2-storage)
-  - [Networking](01.Azure.md#3-networking)
-  - [Databases](01.Azure.md#4-databases)
-  - [Analytics](01.Azure.md#5-analytics)
-  - [AI & Machine Learning](01.Azure.md#6-ai--machine-learning)
-  - [Internet of Things (IoT)](01.Azure.md#7-internet-of-things-iot)
-  - [Security & Identity](01.Azure.md#8-security--identity)
-  - [DevOps](01.Azure.md#9-devops)
-  - [Migration](01.Azure.md#10-migration)
+[2. Microsoft Azure Services](02.Azure.md#microsoft-azure-services)
+  - [Compute](02.Azure.md#1-compute)
+  - [Storage](02.Azure.md#2-storage)
+  - [Networking](02.Azure.md#3-networking)
+  - [Databases](02.Azure.md#4-databases)
+  - [Analytics](02.Azure.md#5-analytics)
+  - [AI & Machine Learning](02.Azure.md#6-ai--machine-learning)
+  - [Internet of Things (IoT)](02.Azure.md#7-internet-of-things-iot)
+  - [Security & Identity](02.Azure.md#8-security--identity)
+  - [DevOps](02.Azure.md#9-devops)
+  - [Migration](02.Azure.md#10-migration)
 
-[3. Azure Global Infrastructure & Regions](01.Azure.md#azure-global-infrastructure--regions)
-  - [Azure Global Infrastructure](01.Azure.md#azure-global-infrastructure)
-  - [Azure Regions](01.Azure.md#azure-regions)
-  - [Why It Matters](01.Azure.md#why-it-matters)
+[3. Azure Global Infrastructure & Regions](02.Azure.md#azure-global-infrastructure--regions)
+  - [Azure Global Infrastructure](02.Azure.md#azure-global-infrastructure)
+  - [Azure Regions](02.Azure.md#azure-regions)
+  - [Why It Matters](02.Azure.md#why-it-matters)
 
-[4. Microsoft Entra ID (formerly Azure AD)](01.Azure.md#microsoft-entra-id-formerly-azure-ad)
+[4. Microsoft Entra ID (formerly Azure AD)](02.Azure.md#microsoft-entra-id-formerly-azure-ad)
 
-[5. Microsoft Azure Scope](01.Azure.md#microsoft-azure-scope)
-  - [Main Azure Scope Levels](01.Azure.md#main-azure-scope-levels)
-  - [Why Scope Matters](01.Azure.md#why-scope-matters)
+[5. Microsoft Azure Scope](02.Azure.md#microsoft-azure-scope)
+  - [Main Azure Scope Levels](02.Azure.md#main-azure-scope-levels)
+  - [Why Scope Matters](02.Azure.md#why-scope-matters)
 
-[6. Ways to Interact with Azure Portal](01.Azure.md#ways-to-interact-with-azure-portal)
-  - [Azure Portal (Web UI)](01.Azure.md#azure-portal-web-ui)
-  - [Azure CLI (Command-Line Interface)](01.Azure.md#azure-cli-command-line-interface)
-  - [Azure PowerShell](01.Azure.md#azure-powershell)
-  - [Azure Mobile App](01.Azure.md#azure-mobile-app)
-  - [Azure REST APIs](01.Azure.md#azure-rest-apis)
-  - [Azure SDKs](01.Azure.md#azure-sdks)
+[6. Ways to Interact with Azure Portal](02.Azure.md#ways-to-interact-with-azure-portal)
+  - [Azure Portal (Web UI)](02.Azure.md#azure-portal-web-ui)
+  - [Azure CLI (Command-Line Interface)](02.Azure.md#azure-cli-command-line-interface)
+  - [Azure PowerShell](02.Azure.md#azure-powershell)
+  - [Azure Mobile App](02.Azure.md#azure-mobile-app)
+  - [Azure REST APIs](02.Azure.md#azure-rest-apis)
+  - [Azure SDKs](02.Azure.md#azure-sdks)
